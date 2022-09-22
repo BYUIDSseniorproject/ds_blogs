@@ -1,0 +1,2 @@
+- [How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
+- [How To Start Writing Technical Blogs](https://parveensingh.com/how-to-start-writing-technical-blogs/)
