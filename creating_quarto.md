@@ -10,9 +10,9 @@
 5. Clone your repo.
 6. Open that folder in VS Code and execute `quarto create-project --type website:blog` in the Terminal. ([quarto create-project command](https://quarto.org/docs/projects/quarto-projects.html))
 7. Now navigate to the `index.qmd` file and Render the file (hotkey: ctrl-shift-k (Windows), cmd-shift-k (Mac)) to see the default material created with the command from step 6.
-7. Now, edit the files created.
-    A. `profile.jpg` should be a picture of you.
-    B. Edit `about.qmd` with your links and text.   
+7. Now, edit the files created.   
+    A. `profile.jpg` should be a picture of you.   
+    B. Edit `about.qmd` with your links and text.      
     C. Edit your `_quarto.yml` to improve the title, [icons](https://icons.getbootstrap.com/), links and your default [theme](https://bootswatch.com/).   
     D. Add `output-dir: docs` to line three of `_quarto.yml` at the correct tab set.   
 8. Delete one of the folders in `/posts` and update the other folder name and `.qmd` to start your first post.
