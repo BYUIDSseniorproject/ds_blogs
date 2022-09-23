@@ -16,7 +16,7 @@
     C. Edit your `_quarto.yml` to improve the title, [icons](https://icons.getbootstrap.com/), links and your default [theme](https://bootswatch.com/).   
     D. Add `output-dir: docs` to line three of `_quarto.yml` at the correct tab set.   
 8. Delete one of the folders in `/posts` and update the other folder name and `.qmd` to start your first post.
-9. Rerender your site again (hotkey: ctrl-shift-k (Windows), cmd-shift-k (Mac))
+9. Rerender your site again by using `quarto render` in the terminal. This will rebuild every `.qmd` file in your workspace.
 10. Commit your changes and push your changes to GitHub
 11. Navigate to your repository on Github and click on `Settings`.
 12. Navigate using `Pages` in the left navigation, change the `branch` settings to `main` and `/docs` and finalize with the `save` button.
